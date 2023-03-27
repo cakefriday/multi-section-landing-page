@@ -48,6 +48,7 @@ You can install this project by ZIP file or cloning on github
 The buildNav functions dynamically creates a navigation bar out of sections found in the HTML code. the navigation bar is made of links in a list. When a navbar link is clicked, the page scrolls smoothly to the section.
 
 The setActive function adds a class to the section and navbar links to highlight the section in the navigation bar that is in view on the page while scrolling the page. 
+
 ---
 
 # Contribute
@@ -57,6 +58,7 @@ The setActive function adds a class to the section and navbar links to highlight
 **- Udacity**
 
 **- https://www.javascripttutorial.net/dom/css/check-if-an-element-is-visible-in-the-viewport/**
+
 ---
 
 # License & Copyright
